@@ -1,6 +1,0 @@
-Configuration:
-  Application:
-    Name: "Dev"    
-  Database:
-    DbType: SqlServer
-    ConnectionString: ConnectionString
