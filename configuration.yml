@@ -1,6 +1,1 @@
-configuration:
-  application:
-    name: Config-Default    
-  database:
-    dbType: SqlServer
-    connectionString: ConnectionString
+configuration: PAConfiguration
