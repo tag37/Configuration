@@ -1,6 +1,3 @@
-configuration:
-  application:
-    name: Config-Development    
-  database:
-    dbType: SqlServer
-    connectionString: ConnectionString
+application: physical-access
+database: sql-server    
+  
