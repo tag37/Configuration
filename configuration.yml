@@ -1,4 +1,4 @@
-configuration:
+configuration: PAConfiguration
   application:
     name: Config-Default    
   database:
