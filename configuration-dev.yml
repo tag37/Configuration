@@ -1,6 +1,6 @@
 configuration:
   application:
-    name: Config-Dev    
+    name: Config-Development    
   database:
     dbType: SqlServer
     connectionString: ConnectionString
