@@ -1,6 +1,6 @@
 configuration:
   application:
-    name: Config-Default    
+    name: Default-Application    
   database:
     dbType: SqlServer
     connectionString: ConnectionString
