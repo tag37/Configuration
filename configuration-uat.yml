@@ -1,0 +1,6 @@
+configuration:
+  application:
+    name: uat-Application    
+  database:
+    dbType: SqlServer
+    connectionString: uat-ConnectionString
