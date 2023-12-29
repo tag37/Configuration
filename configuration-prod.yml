@@ -1,6 +1,6 @@
 configuration:
   application:
-	  name: Dev-Application    
+    name: Prd-Application    
   database:
-	  dbType: SqlServer
-	  connectionString: Dev-ConnectionString
+    dbType: SqlServer
+    connectionString: Prd-ConnectionString
