@@ -1,4 +1,6 @@
-integraconfiguration:
-  systemid: integra1
-  apikey: GHHT-GH56-FGWS-LJJ1
-  
+configuration:
+  application:
+    name: dev-Application    
+  database:
+    dbType: SqlServer
+    connectionString: dev-ConnectionString
