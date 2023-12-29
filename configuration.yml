@@ -1,6 +1,0 @@
-configuration:
-  application:
-    name: Default-Application    
-  database:
-    dbType: SqlServer
-    connectionString: ConnectionString
