@@ -1,6 +1,6 @@
 configuration:
   application:
-	name: Dev-Application    
+	name: local-Application    
   database:
 	dbType: SqlServer
-	connectionString: Dev-ConnectionString
+	connectionString: local-ConnectionString
