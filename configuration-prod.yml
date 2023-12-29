@@ -1,6 +1,7 @@
 configuration:
   application:
-    name: Prd-Application    
+    name: Prd-Application
+    vesion: 1.1
   database:
     dbType: SqlServer
     connectionString: Prd-ConnectionString
