@@ -1,6 +1,4 @@
 configuration:
-  application:
-    name: dev-Application    
   database:
     dbType: SqlServer
     connectionString: dev-ConnectionString
